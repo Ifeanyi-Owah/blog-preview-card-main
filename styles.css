@@ -58,6 +58,10 @@ body {
   font-size: clamp(1.375rem, 3vw, 1.75rem);
 }
 
+.card-header:hover {
+  color: var(--yellow);
+}
+
 .card-content {
   margin-top: 0.625rem;
 }

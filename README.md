@@ -28,6 +28,9 @@ Users should be able to:
 - Mobile View
   ![](./assets/images/mobile.png)
 
+- Hover View
+  ![](./assets/images/hover.png)
+
 ### Links
 
 - Solution URL: [Solution URL](https://ifeanyi-owah.github.io/blog-preview-card-main/)
