@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ifeanyi-owah.github.io/blog-preview-card-main/)
-- Live Site URL: [Add live site URL here](https://ifeanyi-owah.github.io/blog-preview-card-main/)
+- Solution URL: [Solution URL](https://ifeanyi-owah.github.io/blog-preview-card-main/)
+- Live Site URL: [Live URL](https://ifeanyi-owah.github.io/blog-preview-card-main/)
 
 ## My process
 
